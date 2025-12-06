@@ -24,6 +24,7 @@
                         <ul class="dropdown-menu">
                             <li>
                                 <a class="dropdown-item" href="<%= root%>/cv/mahad.jsp">Mahad Hassan</a>
+                                <a class="dropdown-item" href="<%= root %>/cv/rimshaEjaz.jsp">Rimsha Ejaz(232045)</a>
                             </li>
                         </ul>
                     </li>
